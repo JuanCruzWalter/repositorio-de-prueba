@@ -36,14 +36,14 @@
 }
 
 h1 {
-  color: #f0f0f0;
+  color: #fbff00;
   font-weight: lighter;
   font-size: 200px;
   font-family: fantasy;
 }
 
 h2 {
-  color: #8dc533;
+  color: #ad0606;
   font-style: italic;
   font-family: monospace;
   font-size: 45px;
@@ -358,7 +358,7 @@ h1 {
 }
 
 footer h4{
-  background-color: #053305;
+  background-color: #69db0c;
   color: white;
   text-transform: uppercase;
   padding-top: 10px;
